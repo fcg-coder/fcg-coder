@@ -1,54 +1,29 @@
-# Stanislav Ageychik 
-### Saint-Petersburg, Russia
-### Email: stanislavageychik@yandex.ru 
-### Telergam: https://t.me/fcg000
+# Stanislav Ageychik  
+#### Telegram: [https://t.me/fcg000](https://t.me/fcg000)
+#### Email: stanislavageychik@yandex.ru  
+---
+## About
+Hi, I am an embedded systems developer specializing in C++. I am open to discussing any opportunities. Also me can work as backend developer (C, C++, Python)
 
-# OBJECTIVE
-A third-year student, seeking a backend development internship in C++
+## Tech stack
+C/C++, CMake, Python, Docker, Git, Zephyr RTOS, DataBases(PostgresQL, MySQL)
 
+## Education
+**SUAI**  
+	Bachelor’s in Application and Operation of Automated Systems for Special Purposes (2021 - 2026)
+## Experience  
+#### Embedded Systems Engineer  
+**Kravt LLC** (2024)  
+- Developed software for real-time systems using Zephyr OS (C/C++).  
+- Programmed microcontrollers.
 
-# EDUCATION
-SUAI Application and Operation of Automated Systems for Special Purposes (2021 - 2026)
+#### Web Application Development 
+Virtual Library of Worlds (2023 - 2024)  
+- Developed a web application using a microservice architecture. 
+- GitHub: https://github.com/fcg-coder/GES2
+- Technologies:  
+	- Python Django, React, PostgreSQL, Nginx, Docker, Unity
 
-# SKILLS
-
-### Programming languages: 
-- C/C++
-- Python
-- HTML+CSS+JS
-
-### Technical skills: 
-- Docker,
-- nginx
-- MySQLServer
-- Unity
-
-### Tools:
-- Git
-- ngrok 
-- ssh
-
-
-# EXPERIENCE
-
-## Development of a business card website (2021 - 2024)
-
-### Technologies:
-- Python+Django
-
-## Web application development: virtual library of worlds (2023 - 2024)
-
-This project implements a library of virtual worlds. For development, an approach with a microservice architecture was used - the project consists of two Docker containers: one with a Django website, and the second with an Nginx server, which acts as a reverse proxy and base for the Unity application.
-
-### Technologies: 
-- Nginx
-- Docker
-- Python+Django
-- Unity
-
-
-#LANGUAGES
-- Russian
+## Languages
+- Russian  
 - English
-
-
