@@ -1,7 +1,4 @@
 # Stanislav Ageychik  
-#### Telegram: [https://t.me/fcg000](https://t.me/fcg000)
-#### Email: stanislavageychik@yandex.ru  
----
 ## About
 I am an embedded systems developer with over a year of experience in software development for microcontrollers (e.g., STM32) using C/C++. Additionally, I possess backend development skills in Python, which I apply in my personal projects. I have a higher education degree from SUAI. I am open to discussing any proposals.
 
