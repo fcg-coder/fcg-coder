@@ -10,7 +10,7 @@ C, C++ 20, CMake, Python, Docker, Git, Zephyr RTOS, PostgresQL, Linux,
 
 ## Education
 ### SUAI  
-Bachelor’s in Application and Operation of Automated Systems for Special Purposes (2021 - 2026)
+Specialist in "Application and Operation of Automated Systems for Special Purposes" (2021 - 2026)
 	
 ## Work experience  
 ### Embedded Systems Engineer  
