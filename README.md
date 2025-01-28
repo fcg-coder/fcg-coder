@@ -31,6 +31,7 @@ Personal website for a xenomedia artist (2022)
 ### Telegram Bot for VLESS VPN Subscription
 Subscription management bot for VLESS VPN (2024 - ongoing)
 - Created a Telegram bot for managing VPN subscriptions, including generating configuration files and automating user notifications.
+- Organization: https://github.com/VLESS-telegramm-bot
 - Link: https://t.me/fcg_vpn_bot
 - Technologies:
   	- Python, aiogram, SQLite, WireGuard
